@@ -1,3 +1,3 @@
 # LazyGrid140
  
-<img = src=/lazy.JPG>
+<img src=/lazy.JPG>
