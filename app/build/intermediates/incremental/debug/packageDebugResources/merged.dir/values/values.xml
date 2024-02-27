@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="app_name">Courses</string>
+    <string name="ash">Ash</string>
+    <string name="eternal">Eternal</string>
+    <string name="everylyn">Everylyn</string>
+    <string name="horactie">Horactie</string>
+    <string name="karma">Karma</string>
+    <string name="lissanda">Lissanda</string>
+    <string name="lotus">Lotus</string>
+    <string name="lux">Lux</string>
+    <string name="luxfullfighter">Luxfullfighter</string>
+    <string name="nibiru">Nibiru</string>
+    <string name="pot">Pot</string>
+    <string name="qiyana">Qiyana</string>
+    <string name="reborn">Reborn</string>
+    <string name="riven">Riven</string>
+    <string name="samira">Samira</string>
+    <string name="savir">Savir</string>
+    <string name="sharvara">Sharvara</string>
+    <string name="shifter">Shifter</string>
+    <string name="soul">Soul</string>
+    <string name="sprityubel">Sprityubel</string>
+    <string name="superfushion">superfushion</string>
+    <string name="tour">Tour</string>
+    <string name="vanye">Vanye</string>
+    <string name="yubel">Yubel</string>
+    <string name="yubelthelove">Yubelthelove</string>
+    <style name="Theme.Courses" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
